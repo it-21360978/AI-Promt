@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'VisionG'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_754C4F4EFCCC4EFE8D136A3EA558A4F6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BEC90993CAC84BD7B0E7F6D950880426 }}
           package: .
